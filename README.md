@@ -26,28 +26,28 @@ I put this together because I wanted something portable that didn't come with al
 **:page_facing_up: [Aestan Tray Menu](https://github.com/crazy-max/aetraymenu/tags) :floppy_disk: [1.6.2](https://github.com/crazy-max/aetraymenu/releases/download/1.6.2/aetraymenu.zip)**
 > *This is an application launcher that sits in the taskbar.*
 
-**:page_facing_up: [Apache](https://www.apachelounge.com/download/) :floppy_disk: [2.4.65-250724](https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.65-250724-Win64-VS17.zip)**
-  + :page_facing_up: [mod_fcgid](https://www.apachelounge.com/download/) :floppy_disk: [2.3.10](https://www.apachelounge.com/download/VS17/modules/mod_fcgid-2.3.10-win64-VS17.zip)
+**:page_facing_up: [Apache](https://www.apachelounge.com/download/) :floppy_disk: [2.4.66-260223](https://www.apachelounge.com/download/VS18/binaries/httpd-2.4.66-260223-Win64-VS18.zip)**
+  + :page_facing_up: [mod_fcgid](https://www.apachelounge.com/download/) :floppy_disk: [2.3.10](https://www.apachelounge.com/download/VS18/modules/mod_fcgid-2.3.10-win64-VS18.zip)
 
-**:page_facing_up: [MariaDB](https://mariadb.org/download/) :floppy_disk: [11.8.2](https://mirrors.xtom.com/mariadb/mariadb-11.8.2/winx64-packages/mariadb-11.8.2-winx64.zip)**
+**:page_facing_up: [MariaDB](https://mariadb.org/download/) :floppy_disk: [11.8.6](https://mirrors.xtom.com/mariadb/mariadb-11.8.6/winx64-packages/mariadb-11.8.6-winx64.zip)**
 
-**:page_facing_up: [PHP](https://windows.php.net/download) :floppy_disk: [8.4.11](https://windows.php.net/downloads/releases/php-8.4.11-nts-Win32-vs17-x64.zip)**
-  + :page_facing_up: [Xdebug](https://xdebug.org/download) :floppy_disk: [3.4.5](https://xdebug.org/files/php_xdebug-3.4.5-8.4-nts-vs17-x86_64.dll)
-  + :page_facing_up: [Imagick](https://mlocati.github.io/articles/php-windows-imagick.html) :floppy_disk: [3.7.0](https://downloads.php.net/~windows/pecl/releases/imagick/3.7.0/php_imagick-3.7.0-8.4-nts-vs17-x64.zip)
-  + :page_facing_up: [timezonedb](https://pecl.php.net/package/timezonedb) :floppy_disk: [2025.2](https://downloads.php.net/~windows/pecl/releases/timezonedb/2025.2/php_timezonedb-2025.2-8.4-nts-vs17-x64.zip)
-  + :page_facing_up: [igbinary](https://pecl.php.net/package/igbinary) :floppy_disk: [3.2.16](https://downloads.php.net/~windows/pecl/releases/igbinary/3.2.16/php_igbinary-3.2.16-8.4-nts-vs17-x64.zip)
-  + :page_facing_up: [APCu](https://pecl.php.net/package/apcu) :floppy_disk: [5.1.24](https://downloads.php.net/~windows/pecl/releases/apcu/5.1.24/php_apcu-5.1.24-8.4-nts-vs17-x64.zip)
+**:page_facing_up: [PHP](https://windows.php.net/download) :floppy_disk: [8.5.1](https://windows.php.net/downloads/releases/php-8.5.1-nts-Win32-vs17-x64.zip)**
+  + :page_facing_up: [Xdebug](https://xdebug.org/download) :floppy_disk: [3.5.1](https://xdebug.org/files/php_xdebug-3.5.1-8.5-nts-vs17-x86_64.dll)
+  + :page_facing_up: [Imagick](https://downloads.php.net/~windows/pecl/releases/imagick/) :floppy_disk: [3.8.1](https://downloads.php.net/~windows/pecl/releases/imagick/3.8.1/php_imagick-3.8.1-8.5-nts-vs17-x64.zip)
+  + :page_facing_up: [timezonedb](https://pecl.php.net/package/timezonedb) :floppy_disk: [2026.1](https://downloads.php.net/~windows/pecl/releases/timezonedb/2026.1/php_timezonedb-2026.1-8.5-nts-vs17-x64.zip)
+  + :page_facing_up: [igbinary](https://pecl.php.net/package/igbinary) :floppy_disk: [3.2.17RC1](https://downloads.php.net/~windows/pecl/releases/igbinary/3.2.17RC1/php_igbinary-3.2.17rc1-8.5-nts-vs17-x64.zip)
+  + :page_facing_up: [APCu](https://pecl.php.net/package/apcu) :floppy_disk: [5.1.28](https://downloads.php.net/~windows/pecl/releases/apcu/5.1.28/php_apcu-5.1.28-8.5-nts-vs17-x64.zip)
 
 **:page_facing_up: [phpMyAdmin](https://www.phpmyadmin.net/downloads/) :floppy_disk: [5.2.3 All Languages](https://files.phpmyadmin.net/phpMyAdmin/5.2.3/phpMyAdmin-5.2.3-all-languages.zip)**
 
-**:page_facing_up: [Composer](https://getcomposer.org/download/) :floppy_disk: [2.8.10](https://getcomposer.org/download/2.8.10/composer.phar)**
+**:page_facing_up: [Composer](https://getcomposer.org/download/) :floppy_disk: [2.9.5](https://getcomposer.org/download/2.9.5/composer.phar)**
   + :page_facing_up: [Composer Public Keys](https://composer.github.io/pubkeys.html) :floppy_disk: [Dev](https://composer.github.io/snapshots.pub)
   + :page_facing_up: [Composer Public Keys](https://composer.github.io/pubkeys.html) :floppy_disk: [Tags](https://composer.github.io/releases.pub)
-  + :page_facing_up: [7-Zip](https://www.7-zip.org/download.html) :floppy_disk: [25.00 CLI](https://www.7-zip.org/a/7z2500-extra.7z)
+  + :page_facing_up: [7-Zip](https://www.7-zip.org/download.html) :floppy_disk: [26.00 CLI](https://www.7-zip.org/a/7z2600-extra.7z)
 > *Don't forget to rename 7za.exe to 7z.exe.*
   + :page_facing_up: [7-Zip](https://www.7-zip.org/download.html) :floppy_disk: [EXE](https://www.7-zip.org/a/7zr.exe)
 > *This is the 7zip standalone that's only useful for unzipping .7z files, download if you don't have and don't want 7zip installed on your system.*
-  + :page_facing_up: [Git](https://git-scm.com/downloads/win) :floppy_disk: [2.50.1](https://github.com/git-for-windows/git/releases/download/v2.50.1.windows.1/PortableGit-2.50.1-64-bit.7z.exe)
+  + :page_facing_up: [Git](https://git-scm.com/downloads/win) :floppy_disk: [2.53.0](https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/PortableGit-2.53.0-64-bit.7z.exe)
 > *This executable is a zip you can extract with 7zip.*
 
 **:page_facing_up: [WP-CLI](https://github.com/wp-cli/wp-cli/tags) :floppy_disk: [2.12.0](https://github.com/wp-cli/wp-cli/releases/download/v2.12.0/wp-cli-2.12.0.phar)**
